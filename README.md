@@ -12,7 +12,7 @@ I am a Software Engieer graduate from the Code Your Future bootcamp with experie
  <hr>
  
  📫 How to reach me: https://www.linkedin.com/in/osagie-okoedo-63158019/ <br>
- 😄 Pronouns: .Him/His
+ 😄 Pronouns: .Him/His <br>
  ⚽ Arsenal fan here!!!
 
 <hr>
