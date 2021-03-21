@@ -11,7 +11,7 @@ I am a Software Engineer and Full Stack Web Developer graduate from the Code You
  
  <hr>
  
- 📫 on Twitter: osagie-okoedo
+ 📫 on Twitter: osagie-okoedo <br>
  😄 Pronouns: Him/His <br>
  ⚽ Arsenal fan here!!!
 
