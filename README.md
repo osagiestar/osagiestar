@@ -4,7 +4,8 @@
 
 I am a Software Engineer. 
 
- 🔭 I’m currently studying for my AWS certification <br>
+ 🔭 I am an Azure Administrator Associate and Azure DevOps Associate.
+ currently studying for my AWS certification <br>
  💯 I’m also perfecting on TDD for full web application and implementation <br>
  👯 I do vounteer with the Code Your Future as a TA <br>
  🚀 Advancing into cloud computing and cyber security
