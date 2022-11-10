@@ -2,7 +2,7 @@
 
 <hr>
 
-I am a Software Engineer and Full Stack Web Developer graduate from the Code Your Future bootcamp. 
+I am a Software Engineer. 
 
  🔭 I’m currently studying for my AWS certification <br>
  💯 I’m also perfecting on TDD for full web application and implementation <br>
